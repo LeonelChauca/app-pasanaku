@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:radius="16dp" /> <!-- Ajusta el radio según lo que necesites -->
+    <solid android:color="@android:color/white" /> <!-- Color de fondo del botón -->
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/darker_gray" /> <!-- Color y ancho del borde -->
+</shape>
